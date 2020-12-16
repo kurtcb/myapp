@@ -2,7 +2,7 @@
   <div id="app">
     <body>
       <topnav></topnav>
-
+      <p>12300</p>
       <router-view></router-view>
     </body>
   </div>
